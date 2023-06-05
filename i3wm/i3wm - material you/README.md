@@ -1,7 +1,11 @@
 Material You
+--
 OS: Arch Linux
+
 WM: i3wm
+
 Система подстраивается под цвет обоев
+
 ![2023-06-06_01-23](https://github.com/Norefolon/dotfiles/assets/112607231/9e3770e2-27f9-42cd-8b6c-fbe23c783517)
 ![2023-06-06_01-23_1](https://github.com/Norefolon/dotfiles/assets/112607231/b695616e-737e-41e8-879a-517b0068a434)
 ![2023-06-06_01-23_2](https://github.com/Norefolon/dotfiles/assets/112607231/7a8bfd7f-3061-4aef-992f-98273e01f450)
