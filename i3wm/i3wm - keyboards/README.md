@@ -2,15 +2,11 @@
 
 Рабочий стол i3wm:
 
-![2023-05-24_23-36](https://github.com/Norefolon/My-settings-linux/assets/112607231/024286d0-e9d7-40f9-8614-ab4767276d84)
+![2023-05-24_23-36](https://github.com/Norefolon/dotfiles/assets/112607231/ad391d75-ae95-4a80-91d4-78e77a3eed82)
 
 Менеджер рабочего стола tbsm:
 
 ![image](https://user-images.githubusercontent.com/112607231/236680326-99677499-b579-40c4-9bad-3d23fccca4e2.png)
-
-Rofi:
-
-![2023-05-25_22-28](https://github.com/Norefolon/My-settings-linux/assets/112607231/fce26f6e-2d08-4dd2-a44a-9a73cb0b2bda)
   
 # Описание
 
