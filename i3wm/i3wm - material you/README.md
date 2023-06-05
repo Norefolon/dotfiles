@@ -15,9 +15,9 @@ WM: i3wm
 Установка
 --
 1. Скачивает дотфайлы:
-'''
+```
 $ git clone https://github.com/Norefolon/dotfiles.git
 $ cd dotfiles
-'''
+```
 
 2. аа
