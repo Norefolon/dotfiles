@@ -56,4 +56,4 @@ $ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.bashrc /nome/[USERNAME]/
 $ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.wallpaperfeh /nome/[USERNAME]/
 ```
 
-Обои дожны лежать в `~/Изображения/MaterialYou/`
+Обои дожны лежать в `~/Изображения/MaterialYou/`.
