@@ -32,3 +32,8 @@ $ mkdir -p ~/.local/share/rofi/themes/
 $ cp themes/rounded-common.rasi ~/.local/share/rofi/themes/
 $ cp themes/rounded-gray-dark.rasi ~/.local/share/rofi/themes/
 ```
+
+4. Запустите Rofi в `run` режиме, введите `rofi-theme-selector`.
+5. Найдите нужную тему, нажмите `Enter` для предварительного просмотра, затем `Alt+a` чтобы принять новую тему.
+6. Наслаждайтесь новой темой Rofi!
+
