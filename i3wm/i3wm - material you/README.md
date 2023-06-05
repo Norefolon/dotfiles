@@ -12,4 +12,7 @@ WM: i3wm
 ![2023-06-06_01-23_3](https://github.com/Norefolon/dotfiles/assets/112607231/c83123d7-7f6a-4977-8b79-67c468ee9548)
 ![2023-06-06_01-24](https://github.com/Norefolon/dotfiles/assets/112607231/e01ec57d-719f-4ac3-87f2-cb81708fe937)
 
-https://github.com/Norefolon/dotfiles.git
+Установка
+--
+
+$ git clone https://github.com/Norefolon/dotfiles.git
