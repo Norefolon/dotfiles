@@ -39,9 +39,14 @@ $ cp themes/rounded-gray-dark.rasi ~/.local/share/rofi/themes/
 
 ### Установка конфигов i3, kitty, picom, polybar:
 ```
-$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/i3/config ~/.config/i3/
-$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/kitty/kitty.conf ~/.config/kitty/
-$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/picom/picom.conf ~/.config/picom/
-$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/config.ini ~/.config/polybar/
-$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/launch.sh ~/.config/polybar/
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/i3/config ~/.config/i3/
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/kitty/kitty.conf ~/.config/kitty/
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/picom/picom.conf ~/.config/picom/
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/config.ini ~/.config/polybar/
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/launch.sh ~/.config/polybar/
+```
+
+### Копирование .bashrc:
+```
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.bashrc /nome/[USERNAME]/
 ```
