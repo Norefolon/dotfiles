@@ -14,10 +14,20 @@ WM: i3wm
 
 Установка
 --
+УСТАНОВКА ROFI:
+
 1. Скачивает дотфайлы:
 ```
 $ git clone https://github.com/Norefolon/dotfiles.git
-$ cd dotfiles
+$ cd dotfiles/i3wm/i3wm\ -\ material\ you/
 ```
 
-2. аа
+2. Создаём каталог для установки:
+```
+$ mkdir -p ~/.local/share/rofi/themes/
+```
+
+3. Копируем файл с темой в `~/.local/share/rofi/themes`:
+```
+$ cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
+```
