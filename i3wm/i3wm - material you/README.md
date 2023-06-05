@@ -37,4 +37,11 @@ $ cp themes/rounded-gray-dark.rasi ~/.local/share/rofi/themes/
 5. Найдите нужную тему, нажмите `Enter` для предварительного просмотра, затем `Alt+a` чтобы принять новую тему.
 6. Наслаждайтесь новой темой Rofi!
 
-### Установка конфигов i3, kitty, picom, polybar.
+### Установка конфигов i3, kitty, picom, polybar:
+```
+$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/i3/config ~/.config/i3/
+$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/kitty/kitty.conf ~/.config/kitty/
+$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/picom/picom.conf ~/.config/picom/
+$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/config.ini ~/.config/polybar/
+$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/launch.sh ~/.config/polybar/
+```
