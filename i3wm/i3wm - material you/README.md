@@ -19,7 +19,7 @@ WM: i3wm
 1. Скачивает дотфайлы:
 ```
 $ git clone https://github.com/Norefolon/dotfiles.git
-$ cd dotfiles/i3wm/i3wm\ -\ material\ you/
+$ cd dotfiles/i3wm/i3wm\ -\ material\ you/.local/share/rofi/
 ```
 
 2. Создаём каталог для установки:
@@ -27,7 +27,8 @@ $ cd dotfiles/i3wm/i3wm\ -\ material\ you/
 $ mkdir -p ~/.local/share/rofi/themes/
 ```
 
-3. Копируем файл с темой в `~/.local/share/rofi/themes`:
+3. Копируем файлы с темой в `~/.local/share/rofi/themes`:
 ```
-$ cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
+$ cp themes/rounded-common.rasi ~/.local/share/rofi/themes/
+$ cp themes/rounded-gray-dark.rasi ~/.local/share/rofi/themes/
 ```
