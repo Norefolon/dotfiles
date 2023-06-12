@@ -51,9 +51,9 @@ $ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.config/polybar/launch.sh ~/.config/
 $ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.bashrc /nome/[USERNAME]/
 ```
 
-### Загрузка скрипта на смену обоев:
+### Установка скрипта на смену обоев:
 ```
-$ cd ~/dotfiles/i3wm/i3wm\ -\ material\ you/.wallpaperfeh /nome/[USERNAME]/
+$ cp ~/dotfiles/i3wm/i3wm\ -\ material\ you/.wallpaperfeh /nome/[USERNAME]/
 ```
 
 Обои дожны лежать в `~/Изображения/MaterialYou/`.
